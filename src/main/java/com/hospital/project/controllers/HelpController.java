@@ -1,7 +1,7 @@
-package com.cts.project.controllers;
+package com.hospital.project.controllers;
 
-import com.cts.project.models.Help;
-import com.cts.project.service.HelpService;
+import com.hospital.project.models.Help;
+import com.hospital.project.service.HelpService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.web.bind.annotation.*;

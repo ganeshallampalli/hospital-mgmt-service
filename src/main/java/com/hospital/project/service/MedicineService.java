@@ -1,7 +1,7 @@
-package com.cts.project.service;
+package com.hospital.project.service;
 
-import com.cts.project.models.Medicine;
-import com.cts.project.repository.MedicineRepository;
+import com.hospital.project.models.Medicine;
+import com.hospital.project.repository.MedicineRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

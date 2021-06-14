@@ -1,4 +1,4 @@
-package com.cts.project.models;
+package com.hospital.project.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

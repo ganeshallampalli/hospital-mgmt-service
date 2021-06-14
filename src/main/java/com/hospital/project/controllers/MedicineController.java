@@ -1,8 +1,7 @@
-package com.cts.project.controllers;
+package com.hospital.project.controllers;
 
-import com.cts.project.models.ERole;
-import com.cts.project.models.Medicine;
-import com.cts.project.service.MedicineService;
+import com.hospital.project.models.Medicine;
+import com.hospital.project.service.MedicineService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.web.bind.annotation.*;

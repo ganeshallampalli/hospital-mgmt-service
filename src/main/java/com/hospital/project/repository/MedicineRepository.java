@@ -1,6 +1,6 @@
-package com.cts.project.repository;
+package com.hospital.project.repository;
 
-import com.cts.project.models.Medicine;
+import com.hospital.project.models.Medicine;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.repository.PagingAndSortingRepository;
